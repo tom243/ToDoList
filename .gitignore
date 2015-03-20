@@ -8,9 +8,6 @@ endpoint-libs/
 *.apk
 *.ap_
 
-bin/
-!*.apk
-
 # files for the dex VM
 *.dex
 
