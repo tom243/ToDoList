@@ -33,6 +33,7 @@ public class MainActivity extends Activity implements OnDataSourceChangeListener
 	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+    	System.out.println("tomer");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // Create the controller
